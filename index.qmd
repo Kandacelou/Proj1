@@ -8,11 +8,13 @@ about:
   links:
   - text: Github
     href: https://github.com/Kandacelou
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/kandace-loualhati-08690b304/
 ---
 
 ## About Me {style="color: black"}
 
-Hi! My name is Kandace Loualhati. I'm an undergraduate at Pomona College (class of 2027) who's double majoring in Politics and Cognitive Science as well as minoring in Data Science. My ultimate goal is to become a data scientist, specializing in statistical analysis and data mining, or political consultant.
+Hi! My name is Kandace Loualhati. I'm an undergraduate at Pomona College (class of 2027) who's double majoring in Politics and Cognitive Science, with a concentration in Computational Cognitive Science, as well as minoring in Data Science. My ultimate goal is to become a data scientist, specializing in statistical analysis, or political consultant.
 
 ## Skills {style="color: black"}
 
